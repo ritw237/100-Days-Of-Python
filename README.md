@@ -1,11 +1,16 @@
 # 100 Days of Python
 
-I am embarking on a journey to code in Python every day for 100 days! This challenge originated on Replit, with the title 'Replit 100 Days of Code'. 
+I am embarking on a journey to code in Python every day for 100 days! This challenge originated on Replit, with the title 'Replit 100 Days of Code'.
+
+[![GitHub stars](https://img.shields.io/github/stars/ritw237/100-Days-Of-Python.svg?style=flat-square)](https://github.com/ritw237/100-Days-Of-Python) 
 - 🏁 This repository will serve as a journal of my progress and projects I work on during this time. 
 - 🍁 I will update it regularly as I make progress.
 - 🤯 100 projects of Python over 100 Days  
 - ⚡ Whenever I finish a Day's progress (made the project and pushed it to Github and my replit), I will tweeet about it too on here -> [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritwiksrivast11)
 - [My Socials](🔗Links)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/RitwikSrivastava#0369) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritwiksrivast11) [![My Replit Profile](https://img.shields.io/badge/Replit-F26726?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@ritw777) 
+
+
+
 
 | Day | Project | Description |
 | :---: | :---: | :---: |
@@ -43,6 +48,11 @@ And that's it! I will keep updating this repository as I complete more projects 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/RitwikSrivastava#0369)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritwiksrivast11)
 [![Replit](https://img.shields.io/badge/Replit-F26726?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@ritw777)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ritw237/100-Days-Of-Python&type=Timeline)](https://star-history.com/#ritw237/100-Days-Of-Python&Timeline)
+
 
 
 

@@ -10,6 +10,8 @@ I am embarking on a journey to code in Python every day for 100 days! This chall
 - [My Socials](🔗Links)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/RitwikSrivastava#0369) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritwiksrivast11) [![My Replit Profile](https://img.shields.io/badge/Replit-F26726?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@ritw777) 
 
 
+<details>
+  <summary><strong><h2> 🎯 100 Days Of Python Project List (⚡ Click to expand! ⚡)</strong></summary>
 
 
 | Day | Project | Description |
@@ -42,7 +44,8 @@ I am embarking on a journey to code in Python every day for 100 days! This chall
 | 26 | [Music Player](https://github.com/ritw237/Music-Player-Day-26-of-100DaysOfPython) | My personal music player 🎶🎧. This is a simple music player script written in Python that allows the user to play a music file and pause it. The program starts by displaying a menu with two options: 1 to play music and 2 to exit. If the user selects option 1, the music starts playing and they can pause it at any time by pressing 'p'. The program continues to run until the user exits by selecting option 2. The program uses the replit audio module to play the music file and the os module to clear the screen. This project is a basic introduction to working with audio and user inputs in Python. |
 | 27 | [Character Builder](https://github.com/ritw237/Character_Builder-Day-27-of-100DaysOfPython) | Built a character builder that displays health, strength, agility, intelligence, charisma with an epic quote at the end. This code generates a character builder where the user can name their character and choose from 4 different character types (Human, Elf, Wizard, Orc). The code then calculates the health, strength, agility, intelligence, and charisma values for the character using random number generation. Finally, it selects a random epic quote for the character based on their type from a predefined dictionary of quotes. The program allows the user to continue building new characters until they choose to exit.|
 
-And that's it! I will keep updating this repository as I complete more projects in my 100 Days of Python journey.
+</details>
+✅ And that's it! I will keep updating this repository as I complete more projects in my 100 Days of Python journey.
 
 ## 🔗 Links
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/RitwikSrivastava#0369)

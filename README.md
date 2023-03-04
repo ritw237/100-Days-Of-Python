@@ -9,9 +9,16 @@ I am embarking on a journey to code in Python every day for 100 days! This chall
 - ⚡ Whenever I finish a Day's progress (made the project and pushed it to Github and my replit), I will tweeet about it too on here -> [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritwiksrivast11)
 - [My Socials](🔗Links)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/RitwikSrivastava#0369) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritwiksrivast11) [![My Replit Profile](https://img.shields.io/badge/Replit-F26726?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@ritw777) 
 
+## Table of Contents
 
+- [100 Days of Python. Reason for this journal](#100-days-of-python)
+- [🎯 100 Days Of Python Project List](#100-days-of-python-project-list)
+- [🔗 Links](#-links)
+- [Star History](#star-history)
+
+## 100 Days Of Python Project List
 <details>
-  <summary><strong><h2> 🎯 100 Days Of Python Project List (⚡ Click to expand! ⚡)</strong></summary>
+  <summary><strong><h2> ⚡ Click to expand! ⚡</strong></summary>
 
 
 | Day | Project | Description |

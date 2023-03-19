@@ -15,6 +15,8 @@ I am embarking on a journey to code in Python every day for 100 days! This chall
 - [🎯 100 Days Of Python Project List](#100-days-of-python-project-list)
 - [🔗 Links](#-links)
 - [Star History](#star-history)
+### Day 28 - Automated Battle System Multi-player Multi-round RPG {#day-28}
+
 
 ## 100 Days Of Python Project List
 <details>

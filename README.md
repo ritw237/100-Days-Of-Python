@@ -53,6 +53,9 @@ I am embarking on a journey to code in Python every day for 100 days! This chall
 | 27 | [Character Builder](https://github.com/ritw237/Character_Builder-Day-27-of-100DaysOfPython) | Built a character builder that displays health, strength, agility, intelligence, charisma with an epic quote at the end. This code generates a character builder where the user can name their character and choose from 4 different character types (Human, Elf, Wizard, Orc). The code then calculates the health, strength, agility, intelligence, and charisma values for the character using random number generation. Finally, it selects a random epic quote for the character based on their type from a predefined dictionary of quotes. The program allows the user to continue building new characters until they choose to exit.|
 | [28](#day-28) | [Automated Battle System Multi-player Multi-round RPG](https://github.com/ritw237/Day-28-Automated-Battle-System-Multiplayer-Multiround-RPG) | Automated Battle System Multi-player Multi-round RPG. Also added unit tests to the functions to the game code. |
 
+<a name="day-1"></a>
+<a name="day-28"></a>
+
 </details>
 ✅ And that's it! I will keep updating this repository as I complete more projects in my 100 Days of Python journey.
 

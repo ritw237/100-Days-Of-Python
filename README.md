@@ -68,6 +68,7 @@ I am embarking on a journey to code in Python every day for 100 days! This chall
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ritw237/100-Days-Of-Python&type=Timeline)](https://star-history.com/#ritw237/100-Days-Of-Python&Timeline)
 
+<script> window.onload = function() { location.hash && scrollToAnchor(location.hash); } function scrollToAnchor(hash) { if (hash !== "") { var anchor = document.querySelector(hash); if (anchor !== null) { anchor.scrollIntoView({ behavior: "smooth", block: "center" }); } } } </script>
 
 
 

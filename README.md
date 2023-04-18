@@ -18,7 +18,7 @@ I am embarking on a journey to code in Python every day for 100 days! This chall
 
 
 ## 100 Days Of Python Project List
-<details>
+<details open>
   <summary><strong><h2> ⚡ Click to expand! ⚡</strong></summary>
 
 

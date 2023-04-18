@@ -51,10 +51,11 @@ I am embarking on a journey to code in Python every day for 100 days! This chall
 | 25 | [Character Health Stat Generator](https://github.com/ritw237/Character_Health_Stat_Generator_Day-25-of-100DaysOfPython) |  Built a character health stats generator to prepare for the epic battle in 3 days!!!😏. This code is a character health stat generator for a warrior in a role-playing game. The user is prompted to name their warrior and then has the option to generate new health stats using a random number generator. The generator rolls two dice, a 6 sided and an 8 sided, and multiplies the results to give the final health stat. The process can be repeated until the user decides to stop generating new stats.|
 | 26 | [Music Player](https://github.com/ritw237/Music-Player-Day-26-of-100DaysOfPython) | My personal music player 🎶🎧. This is a simple music player script written in Python that allows the user to play a music file and pause it. The program starts by displaying a menu with two options: 1 to play music and 2 to exit. If the user selects option 1, the music starts playing and they can pause it at any time by pressing 'p'. The program continues to run until the user exits by selecting option 2. The program uses the replit audio module to play the music file and the os module to clear the screen. This project is a basic introduction to working with audio and user inputs in Python. |
 | 27 | [Character Builder](https://github.com/ritw237/Character_Builder-Day-27-of-100DaysOfPython) | Built a character builder that displays health, strength, agility, intelligence, charisma with an epic quote at the end. This code generates a character builder where the user can name their character and choose from 4 different character types (Human, Elf, Wizard, Orc). The code then calculates the health, strength, agility, intelligence, and charisma values for the character using random number generation. Finally, it selects a random epic quote for the character based on their type from a predefined dictionary of quotes. The program allows the user to continue building new characters until they choose to exit.|
+<a name="day-28"></a>
 | [28](#day-28) | [Automated Battle System Multi-player Multi-round RPG](https://github.com/ritw237/Day-28-Automated-Battle-System-Multiplayer-Multiround-RPG) | Automated Battle System Multi-player Multi-round RPG. Also added unit tests to the functions to the game code. |
 
-<a name="day-1"></a>
-<a name="day-28"></a>
+
+
 
 </details>
 ✅ And that's it! I will keep updating this repository as I complete more projects in my 100 Days of Python journey.
@@ -68,7 +69,7 @@ I am embarking on a journey to code in Python every day for 100 days! This chall
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ritw237/100-Days-Of-Python&type=Timeline)](https://star-history.com/#ritw237/100-Days-Of-Python&Timeline)
 
-<script> window.onload = function() { location.hash && scrollToAnchor(location.hash); } function scrollToAnchor(hash) { if (hash !== "") { var anchor = document.querySelector(hash); if (anchor !== null) { anchor.scrollIntoView({ behavior: "smooth", block: "center" }); } } } </script>
+
 
 
 
